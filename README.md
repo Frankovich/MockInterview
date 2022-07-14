@@ -6,7 +6,7 @@ If you want to help with the project, contributing to the question list would be
 
 To use this program:
 1)  Install the [.NET SDK](https://dotnet.microsoft.com/en-us/download)
-2)  In the MockInterview directory run 
+2)  In the MockInterview directory, execute:
 >dotnet run
 3)  Respond to prompts during runtime
 4)  Check results/results.txt for a recording of the interview (the file will be overwritten by the next execution so be careful)

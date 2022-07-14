@@ -5,8 +5,8 @@ I created this program to practice personality interview questions, and to learn
 If you want to help with the project, contributing to the question list would be the most helpful.
 
 To use this program:
-1)  Install the [.NET SDK](https://dotnet.microsoft.com/en-us/download).
+1)  Install the [.NET SDK](https://dotnet.microsoft.com/en-us/download)
 2)  In the MockInterview directory run 
 >dotnet run
-3)  Respond to prompts during runtime.
-4)  Check results/results.txt for a recording of the interview (the file will be overwritten by the next execution so be careful).
+3)  Respond to prompts during runtime
+4)  Check results/results.txt for a recording of the interview (the file will be overwritten by the next execution so be careful)

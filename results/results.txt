@@ -1,0 +1,20 @@
+Tell me something about yourself.
+
+I love pineapples on my pizza.
+
+What magazines do you subscribe to?
+
+National Geographic is my favorite.
+
+Give examples of ideas you've had or implemented.
+
+While working in my NASA internship I discovered a JPL database which keeps track of Near Earth Objects (basically asteroids) and I used it to create a twitter account which keeps track of asteroids. Go check out @theAstroGoose
+
+How would you go about establishing your credibility quickly with the team?
+
+Well I would hope to use my skills in computer science and math to quickly make myself a useful asset, and quickly solve problems to raise the entire team up a level.
+
+Give me an example of a time you did something wrong. How did you handle it?
+
+When I was really young I stole one of my friends pokemon cards. A few hours later I felt guilty and I told my mom who drove us immediatly to his house and made me apologize.
+
